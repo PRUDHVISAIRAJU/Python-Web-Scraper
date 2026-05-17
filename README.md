@@ -26,4 +26,4 @@ A Python-based web scraper that extracts quotes from a website using BeautifulSo
 ![Scraper Output](screenshots/scraper-output.png)
 
 ### Extracted Quotes File
-![Extracted Quotes File](screenshots/quotes-file.png)
+![Extracted Quotes File](screenshots/quote-file.png)
